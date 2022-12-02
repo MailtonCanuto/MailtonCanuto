@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#</strong>
+  🦄 Linguagens: <strong>Ruby</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>.Net Core</strong>
+  💼 Ferramentas: <strong>Ruby on Rails</strong>
 </p>
 
 <p align="left">
