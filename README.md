@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript</strong>
+  🦄 Linguagens: <strong>Ruby</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>JS</strong>
+  💼 Ferramentas: <strong>Ruby on Rails</strong>
 </p>
 
 <p align="left">
