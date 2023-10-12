@@ -33,4 +33,9 @@
   <a href="https://www.instagram.com/mailton_garrido/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mailton_garrido/"/></a>
   
-  [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)</p>  
+  [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+  [![wakatime](https://wakatime.com/badge/user/c038d664-bf27-4b80-b41b-fa092a9df169.svg)](https://wakatime.com/@c038d664-bf27-4b80-b41b-fa092a9df169)
+
+  I have accepted 308 completions in 3 different coding languages using Codeium from www.codeium.com!![image](https://github.com/MailtonCanuto/MailtonCanuto/assets/119546693/0ff612fa-a19d-409a-86f7-8db089db63e7)
+
+  </p>  
